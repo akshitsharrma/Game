@@ -2,13 +2,19 @@ body{
     text-align: center;
     background-color:darkseagreen ;
 }
+h1
+{
+    color:red;
+    text-align: center;
+    font-size: 10rem;
+}
 @media(max-width: 600px)
     {
 h1
 {
     color:red;
     text-align: center;
-    font-size: 10rem;
+    font-size: 3 rem;
 }
 }
 h3{
