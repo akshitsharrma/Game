@@ -2,11 +2,14 @@ body{
     text-align: center;
     background-color:darkseagreen ;
 }
+@media(max-width: 600px)
+    {
 h1
 {
     color:red;
     text-align: center;
-    font-size: 10%;
+    font-size: 3%;
+}
 }
 h3{
     display:inline-block;
